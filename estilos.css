@@ -1,0 +1,76 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:#EFE6D4;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.fondo{
+    background-image: url(img/imagenes-web.jpg);
+    height: 600px;
+    background-size: cover;
+    
+}
+h1{
+    font-weight: bolder;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+
+}
+
+.flom{ 
+background-color: #45c5e6;
+color: #000;
+}
+ul li {
+font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    transition: 2s;
+}
+
+ul li :hover {
+background-color: #F18DF2;
+
+transition: 1s;
+}
+    
+#navtext:hover{
+    color: white;
+    transition: 0.5s;
+
+}
+
+.btn{
+    background-color: #F1EEE5;
+    
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    
+}
+.tato {
+    position: absolute;
+    top: 255px;
+    left: 175px;
+}
+.bi {
+    color: #FFF;
+}
+.bi:hover{
+    color: #EFE6D4;
+    transition: 0.5s;
+}
